@@ -37,7 +37,7 @@ def stop():
     print('stop recording')
     
 start()
-time.sleep(10)
+time.sleep(5)
 stop()
 
 #%%
